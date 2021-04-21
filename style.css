@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+    display: block;
+}
+
+header {
+    width: 100%;
+    background-color: black;
+}
+
+footer {
+    margin-top: 5%;
+    width: 100%;
+    background-color: black;
+}
+
+footer h1 {
+    color: yellow;
+    font-size: 3em;
+    text-align: center;
+}
+
+.logo {
+    color: yellow;
+    font-size: 3em;
+    text-align: left;
+}
+
+h1 img{
+    width: 50px;
+}
+nav {
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+    widows: 10%;
+    padding: 0% 2%;
+}
+
+a {
+    font-size: 2em;
+    color: yellow;
+    font-weight: bold;
+}
+
+.principal {
+    width: 80%;
+    border: black solid 3px;
+    margin: auto;
+}
+
+.principal p{
+    text-align: justify;
+    text-indent: 3em;
+    font-size: 1.3em;
+    padding: 2%;
+}
+
+.box-img {
+    width: 46%;
+    height: auto;
+    display: inline-block;
+    padding: 1%;
+}
+
+.box-img h2{
+    text-align: left;
+    font-size: 2em;
+}
+
+.box-img h3{
+    text-align: left;
+    font-size: 1.4em;
+    font-weight: 300;
+}
+
+.img img{
+    width: 400px;
+    height: 400px;
+}
+
+form table{
+    margin: auto;
+}
+
+.usuario {
+    text-align: right;
+    margin: 0% 10%;
+}
